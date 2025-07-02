@@ -150,7 +150,7 @@ if Config.TG_BOT_USERNAME is not None and tgbot is not None:
                 zzd=zzd,
                 zzt=zzt,
                 telever=version.__version__,
-                zdver=tepversion,
+                zdver=zedversion,
                 pyver=python_version(),
                 dbhealth=check_sgnirts,
                 ping=ms,
